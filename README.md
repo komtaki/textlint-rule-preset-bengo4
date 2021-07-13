@@ -94,10 +94,10 @@ fix: 日本語の副詞「と」のルールを修正
 | 種別 | 内容 | マージリリース| バージョン |
 | -- | -- | -- | -- |
 | feat | 新しい機能 | 〇 | Miner Release |
-| fix | バグ修正&軽微な修正 | 〇 | Patch Release |
 | perf | コードのパフォーマンス修正 | 〇 | Major Release |
 | BREAKING CHANGE | 互換性のない破壊的変更 | 〇 | Major Release |
-| refactor| バグ修正や機能追加のないリファクタリング | | |
+| fix | バグ修正 | 〇 | Patch Release |
+| refactor| バグ修正や機能追加のないリファクタリング | 〇 | Patch Release |
 | test | テストパターンの追加や既存テストの修正 | | |
 | docs | ドキュメントの変更 | | |
 | chore | ビルドプロセスの改善など、上記に該当しないもの | | |
